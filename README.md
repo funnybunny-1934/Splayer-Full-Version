@@ -240,4 +240,4 @@ This repository serves as the official landing page for SPlayer. The software is
 **Get the most recent version of SPlayer today!**
 
 ---
-**Last updated:** 2026-09-12 16:57:18 UTC
+**Last updated:** 2026-09-12 19:10:06 UTC
